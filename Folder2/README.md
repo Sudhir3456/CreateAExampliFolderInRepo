@@ -1,13 +1,13 @@
 
- <h1 align="center"> 🏨 GTPL Bank : Online Banking Platform</h1>
-This project automates testing for the InetBanking application using Selenium WebDriver and TestNG. It focuses on validating functionalities such as user login, customer management (add/edit/delete), and data-driven testing using Excel.
+<h1 align="center"> 🏨 GTPL Bank : Online Banking Platform</h1>
 
-https://demo.guru99.com/V1/index.php
- GTPL Bank Home Page 
+- This project automates testing for the InetBanking application using Selenium WebDriver and TestNG. It focuses on validating functionalities such as user login, customer management (add/edit/delete), and data-driven testing using Excel. 
 
-[Shoppers_Stack_RESTful_Web_Service_Testing](https://demo.guru99.com/V1/index.php)
 
- <h1 align="center">📦 Project Overview :</h1>
+- This project aims to test various functionalities of a web application using Selenium and TestNG. The web app. being tested is 
+[GTPL Bank](https://demo.guru99.com/V1/index.php)
+
+<h1 align="center">📦 Project Overview :</h1>
 
 ![AutomationsProjectPic](https://github.com/user-attachments/assets/20b73fd9-1d7f-4e6b-bc01-329d025ff571)
 
