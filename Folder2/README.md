@@ -108,9 +108,9 @@
 <h1 align="center">  💼 Reporting :</h1>
 
   - TestNG Reports :
-  
-  - Custom Reporting :
-
+ 
+![Screenshot 2025-01-26 155521](https://github.com/user-attachments/assets/73f6ef51-79c9-4b8c-a18d-6abd5ed03506)
+ 
  <h1 align="center">🤝 Contributing :</h1>
 
  - Contributions are welcome! Feel free to submit issues and pull requests.
