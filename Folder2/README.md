@@ -1,8 +1,9 @@
 
- <h1 align="center"> 🛒 ShoppersStack: Online Shopping Platform</h1>
+ <h1 align="center"> 🏨 GTPL Bank : Online Banking Platform</h1>
 This project automates testing for the InetBanking application using Selenium WebDriver and TestNG. It focuses on validating functionalities such as user login, customer management (add/edit/delete), and data-driven testing using Excel.
 
 https://demo.guru99.com/V1/index.php
+ GTPL Bank Home Page 
 
 [Shoppers_Stack_RESTful_Web_Service_Testing](https://demo.guru99.com/V1/index.php)
 
