@@ -127,20 +127,13 @@ com.PetStoreAutomation
   - TestNG Reports :
    ![PetstroreReport](https://github.com/user-attachments/assets/4b0132ec-04ec-437b-bb2d-47074927b096)
 
- 
-   ![petsorereport](https://github.com/user-attachments/assets/1e844dbb-2d21-4153-ac60-e54ea55f1ccd)
+    ![petsorereport](https://github.com/user-attachments/assets/1bae1c7e-5305-4e62-9e7d-b1369dc0e2e9)
  
 
  <h1 align="center">🤝 Contributing :</h1>
 
 - Contributions are welcome! Feel free to submit issues and pull requests.
  
-
-
- 
-
-
-
 
 
 
