@@ -12,6 +12,13 @@
 ⚡ Continuous Integration Ready: Configurable with Jenkins & CI/CD pipelines for automated test execution. <br>
 🚀Designed for speed, reliability, and maintainability, this automation framework enhances test efficiency, bug detection, and overall software quality in e-commerce applications. <br>
 
+![opencartFreamwork](https://github.com/user-attachments/assets/ad69a6e4-fcb6-41c6-b8ae-b9208bd38922)
+
+
+
+
+
+
  <h1 align="center">📂 Project Structure  :</h1>
 
 ![OpencardFolderstructure](https://github.com/user-attachments/assets/67cdb05a-764b-4b17-ba01-f528baa81d21)
