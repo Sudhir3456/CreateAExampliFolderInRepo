@@ -11,11 +11,9 @@
 ✔ Generate detailed execution reports with Extent Reports <br>
 ✔ Enable CI/CD integration for continuous testing <br>
 ✔ Ensure modular, maintainable, and scalable framework design <br>
-
-
-![data transfer diagram of RestAssured project](https://github.com/user-attachments/assets/396a3bb7-f803-4ec8-82cc-f5c0dd9a906b)
-
  
+ ![PetstroreApiFreamwork](https://github.com/user-attachments/assets/7db2ada5-ceaa-4575-831e-08cf4f4a9a0d)
+
 
 
  <h1 align="center">📂 Project Structure  :</h1>
